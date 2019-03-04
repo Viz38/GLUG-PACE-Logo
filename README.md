@@ -1,14 +1,15 @@
 # GLUG PACE Logo
 
-These are GLUG PACE logos designed by members of GLUG PACE
+😍These are GLUG PACE logos designed by members of GLUG PACE😍
+
+GLUG PACE members can add more designs by sending a pull request here.🎉🎉🎉🎉
 
 
-
-## Athif Sha
+## Athif Sha 😎
 <img alt="ATHIF" src="Image/GLUG2.png"/>
 <img alt="ATHIF" src="Image/GLUG3.jpeg"/>
 
-## Jabir B
+## Jabir B 😁
 <img alt="JABIR" src="Image/GLUG1.png" />
 
 ## Designer 3
