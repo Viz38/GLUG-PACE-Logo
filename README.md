@@ -12,8 +12,8 @@ GLUG PACE members can add more designs by sending a pull request here.🎉🎉�
 ## Jabir B 😁
 <img alt="JABIR" src="Image/GLUG1.png" />
 
-## Designer 3
-<img alt="Image 3" src="Image/pic3.png" />
+## Abdul Raouf
+<img alt="Image 3" src="Image/sticker.jpg" />
 
 ## Designer 4
 <img alt="Image 4" src="Image/pic4.png" />
